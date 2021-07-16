@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: orange;
+}
+
+.img-section {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+img{
+    width:400px;
+    height:500px;
+    
+}
